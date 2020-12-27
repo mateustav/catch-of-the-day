@@ -1,0 +1,9 @@
+node_modules/
+*.zip
+.DS_Store
+.idea
+notes.md
+build/
+
+# Local Netlify folder
+.netlify
